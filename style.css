@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f0f4ff;
+}
+
+.box {
+    margin-top: 80px;
+}
+
+.btn {
+    padding: 12px 20px;
+    background: #2e7dff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+input {
+    padding: 10px;
+    width: 250px;
+    margin: 10px;
+}
+
+#lesson {
+    display: none;
+    padding: 30px;
+}
+
+.card {
+    background: white;
+    margin: 15px auto;
+    padding: 15px;
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: left;
+}
